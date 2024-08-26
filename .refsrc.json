@@ -7,12 +7,6 @@
     "placeholder": "搜索备忘清单",
     "cancel": "取消"
   },
-  "editor": {
-    "label": "编辑"
-  },
-  "github": {
-    "url": "https://github.com/fyx-ssj/reference/edit/main/.refsrc.json"
-  },
   "giscus": {
     "src": "https://giscus.app/client.js",
     "data-repo": "jaywcjlove/reference",
